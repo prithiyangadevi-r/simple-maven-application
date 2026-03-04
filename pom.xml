@@ -6,11 +6,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
-    <artifactId>simple-maven-application</artifactId>
+    <artifactId>calculator-app</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
-        <!-- JUnit 5 -->
+        <!-- JUnit Dependency -->
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter</artifactId>
@@ -30,4 +30,3 @@
     </build>
 
 </project>
-
